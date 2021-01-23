@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 0c0157a24a203468c9a1b0a5efb94378
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2093280021678983581
+    second: Human_img_young_w_side 1_0
+  - first:
+      213: -9058023234651600392
+    second: Human_img_young_w_side 1_1
+  - first:
+      213: 6612495415764649155
+    second: Human_img_young_w_side 1_2
+  - first:
+      213: -8278005445053387747
+    second: Human_img_young_w_side 1_3
+  - first:
+      213: -8078939865419835499
+    second: Human_img_young_w_side 1_4
+  - first:
+      213: 4969939919281424515
+    second: Human_img_young_w_side 1_5
+  - first:
+      213: 6604230796908925754
+    second: Human_img_young_w_side 1_6
+  - first:
+      213: -2345969767457935509
+    second: Human_img_young_w_side 1_7
+  - first:
+      213: -3664395257092817078
+    second: Human_img_young_w_side 1_8
+  - first:
+      213: 111479171334465814
+    second: Human_img_young_w_side 1_9
+  - first:
+      213: 8168994733895329032
+    second: Human_img_young_w_side 1_10
+  - first:
+      213: 1064723030643238084
+    second: Human_img_young_w_side 1_11
+  - first:
+      213: 4765856590264598362
+    second: Human_img_young_w_side 1_12
+  - first:
+      213: 106614793000677856
+    second: Human_img_young_w_side 1_13
+  - first:
+      213: 6979551115272686160
+    second: Human_img_young_w_side 1_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Human_img_young_w_side 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 52
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebbc224b09264d19a2dfcb9e1f21254
+      internalID: 2093280021678983581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_img_young_w_side 1_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 62
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b96d53aa8cc7439aaed2a1ce6c6ee85
+      internalID: -9058023234651600392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_img_young_w_side 1_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 58
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7338e9ef583554115b1a7c5ef307be75
+      internalID: 6612495415764649155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_img_young_w_side 1_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 44
+        width: 4
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a821138863bb7463ba39ed715b03f190
+      internalID: -8278005445053387747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_img_young_w_side 1_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 44
+        width: 4
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faedb0b9aca0d4bfbbae35a363f76575
+      internalID: -8078939865419835499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_img_young_w_side 1_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 36
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ece27841b49b4da191bd2efab28a6e5
+      internalID: 4969939919281424515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_img_young_w_side 1_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 36
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc462dc87facb4877b291ab6996814ae
+      internalID: 6604230796908925754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_img_young_w_side 1_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 10
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2250520541d874ffaa8defd206fa152f
+      internalID: -2345969767457935509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_img_young_w_side 1_8
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 20
+        width: 11
+        height: 13
+      alignment: 9
+      pivot: {x: 0.78392375, y: 0.82032406}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588055136c6a04ce3993e7363632d0e5
+      internalID: -3664395257092817078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_img_young_w_side 1_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 32
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353a6a6c481214c5e8d4505bf007dc6c
+      internalID: 111479171334465814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_img_young_w_side 1_10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 20
+        width: 11
+        height: 13
+      alignment: 9
+      pivot: {x: 0.2332833, y: 0.80576396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1dda35373cd048debb0a10e5b892fd1
+      internalID: 8168994733895329032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_img_young_w_side 1_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 25
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8811e878b58c74f379c2867d860c6425
+      internalID: 1064723030643238084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_img_young_w_side 1_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d6d8c9935cf4a699d61b2e62ddde0c
+      internalID: 4765856590264598362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_img_young_w_side 1_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2
+        width: 4
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455d3736819d44949900a735dddbd08f
+      internalID: 106614793000677856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_img_young_w_side 1_14
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48b8bbfc60dd40b0af70be8c3080662
+      internalID: 6979551115272686160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: 7116f890175a2445f99313d004be4fb0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8472315205834911100
+    second: Img_Map_1
+  - first:
+      213: -3962598166346753396
+    second: Img_Map_2
+  - first:
+      213: 2766188844653659993
+    second: Img_Map_arrow
+  - first:
+      213: 1566417363629576660
+    second: Img_Setting
+  - first:
+      213: -7208580736525677036
+    second: Img_Stage_3star
+  - first:
+      213: -1861902032982527279
+    second: Img_Stage_poiont
+  - first:
+      213: -266743831049907824
+    second: Img_Stage_poiont_find
+  - first:
+      213: -9182988528372343477
+    second: Img_Stage_poiont_unfind
+  - first:
+      213: -1515606366180006000
+    second: Img_Star
+  - first:
+      213: 7323134875422862477
+    second: Img_Starslot
+  - first:
+      213: 8335213478171147059
+    second: Img_Map_3
+  - first:
+      213: -2490813134495365500
+    second: Img_Map_4
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Img_Map_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 607
+        height: 1080
+      alignment: 0
+      pivot: {x: 405, y: 720}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d2eec9ac5b39570800000000000000
+      internalID: 8472315205834911100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Map_2
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 704
+        width: 607
+        height: 1080
+      alignment: 0
+      pivot: {x: 405, y: 720}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a994366f50209c0800000000000000
+      internalID: -3962598166346753396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Map_arrow
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 72
+        width: 80
+        height: 99
+      alignment: 0
+      pivot: {x: 53.5, y: 66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957ca3b291a736620800000000000000
+      internalID: 2766188844653659993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Setting
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 72
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 42, y: 41.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d115210b480db510800000000000000
+      internalID: 1566417363629576660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Stage_3star
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 179
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 72, y: 72}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ec9a8430af5fb90800000000000000
+      internalID: -7208580736525677036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Stage_poiont
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 179
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 72, y: 72}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2bf7d37f13926e0800000000000000
+      internalID: -1861902032982527279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Stage_poiont_find
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 0
+        width: 189
+        height: 177
+      alignment: 0
+      pivot: {x: 126, y: 118.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0915e3026e55c4cf0800000000000000
+      internalID: -266743831049907824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Stage_poiont_unfind
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 179
+        width: 108
+        height: 108
+      alignment: 0
+      pivot: {x: 72, y: 72}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d11e546987f8080800000000000000
+      internalID: -9182988528372343477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Star
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 289
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 29.5, y: 28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097258c3a0c77fae0800000000000000
+      internalID: -1515606366180006000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Starslot
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 0
+        width: 164
+        height: 70
+      alignment: 0
+      pivot: {x: 109.5, y: 47}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8caadb9e5001a560800000000000000
+      internalID: 7323134875422862477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Map_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 843
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b707d1f70aca370800000000000000
+      internalID: 8335213478171147059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Map_4
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 0
+        width: 843
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486c68ca6aade6dd0800000000000000
+      internalID: -2490813134495365500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

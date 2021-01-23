@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Buildings
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 3253112295484559010, guid: 4e579e4d9fc3c2b4d8f9956ee8f327aa, type: 3}
+    - {fileID: 1471187267934954834, guid: 4e579e4d9fc3c2b4d8f9956ee8f327aa, type: 3}
+    - {fileID: -2681613717807542131, guid: 4e579e4d9fc3c2b4d8f9956ee8f327aa, type: 3}
+    - {fileID: 1138994098767827280, guid: 4e579e4d9fc3c2b4d8f9956ee8f327aa, type: 3}
+    - {fileID: -5407793314119906762, guid: 4e579e4d9fc3c2b4d8f9956ee8f327aa, type: 3}
+    - {fileID: -8317886364318567717, guid: 4e579e4d9fc3c2b4d8f9956ee8f327aa, type: 3}
+    - {fileID: 71939312387968867, guid: 4e579e4d9fc3c2b4d8f9956ee8f327aa, type: 3}
+    - {fileID: -4337145981243491012, guid: 4e579e4d9fc3c2b4d8f9956ee8f327aa, type: 3}
+    - {fileID: 8243160297223183399, guid: 4e579e4d9fc3c2b4d8f9956ee8f327aa, type: 3}
+    totalSpriteSurfaceArea: 100597
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 3253112295484559010, guid: 4e579e4d9fc3c2b4d8f9956ee8f327aa, type: 3}
+  - {fileID: -4337145981243491012, guid: 4e579e4d9fc3c2b4d8f9956ee8f327aa, type: 3}
+  - {fileID: 8243160297223183399, guid: 4e579e4d9fc3c2b4d8f9956ee8f327aa, type: 3}
+  - {fileID: 1471187267934954834, guid: 4e579e4d9fc3c2b4d8f9956ee8f327aa, type: 3}
+  - {fileID: -8317886364318567717, guid: 4e579e4d9fc3c2b4d8f9956ee8f327aa, type: 3}
+  - {fileID: 71939312387968867, guid: 4e579e4d9fc3c2b4d8f9956ee8f327aa, type: 3}
+  - {fileID: -5407793314119906762, guid: 4e579e4d9fc3c2b4d8f9956ee8f327aa, type: 3}
+  - {fileID: -2681613717807542131, guid: 4e579e4d9fc3c2b4d8f9956ee8f327aa, type: 3}
+  - {fileID: 1138994098767827280, guid: 4e579e4d9fc3c2b4d8f9956ee8f327aa, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Object_Church
+  - Object_School
+  - Object_Sing
+  - Object_Company
+  - Object_House_2
+  - Object_House_3
+  - Object_House_1
+  - Object_Company_work
+  - Object_Drugstore
+  m_Tag: Buildings
+  m_IsVariant: 0

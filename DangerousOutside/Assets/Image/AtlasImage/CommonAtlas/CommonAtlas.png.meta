@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: 18c0a587c278e4c2b8b2f258e8e36c9e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6503485467654634232
+    second: HumanIcon
+  - first:
+      213: -8300055858144595060
+    second: SettingIcon
+  - first:
+      213: 5499845169743373932
+    second: Star
+  - first:
+      213: 7604305348477506662
+    second: SyringeIcon
+  - first:
+      213: -4523048604249562611
+    second: 10pix
+  - first:
+      213: 5082632689379920029
+    second: Img_Button_exit
+  - first:
+      213: 2366140086418424938
+    second: Img_Button_long
+  - first:
+      213: 8431197297498678525
+    second: Img_Button_midium
+  - first:
+      213: -6452487562917815544
+    second: Img_Button_on_box
+  - first:
+      213: 3847358478342967250
+    second: Img_Button_on_off
+  - first:
+      213: 156138807713935915
+    second: Img_Button_on_on
+  - first:
+      213: 1789971699552833910
+    second: Img_Button_short
+  - first:
+      213: 7298647009767587410
+    second: Img_Panel_setting
+  - first:
+      213: 958306647818666431
+    second: Img_Sound_gauge
+  - first:
+      213: -1043590758710896306
+    second: Img_Sound_handle
+  - first:
+      213: -5279261262025086003
+    second: Img_Sound_slider
+  - first:
+      213: -8895823862833898188
+    second: Img_Sound_handle_blue
+  - first:
+      213: -493803688669605483
+    second: StageStart
+  - first:
+      213: -9075032575900167995
+    second: StageStart_start
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 10pix
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1565
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 50, y: 50}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02e0e13247ea31c0800000000000000
+      internalID: -4523048604249562611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HumanIcon
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1867
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805c7829c6afeb5a0800000000000000
+      internalID: -6503485467654634232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Button_exit
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 1353
+        width: 85
+        height: 80
+      alignment: 0
+      pivot: {x: 42.5, y: 40}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9847468083298640800000000000000
+      internalID: 5082632689379920029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Button_long
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1696
+        width: 363
+        height: 78
+      alignment: 0
+      pivot: {x: 181.5, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6448cb4fd736d020800000000000000
+      internalID: 2366140086418424938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Button_midium
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1776
+        width: 296
+        height: 78
+      alignment: 0
+      pivot: {x: 148, y: 39}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df464ac8541a10570800000000000000
+      internalID: 8431197297498678525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Button_on_box
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1483
+        width: 202
+        height: 80
+      alignment: 0
+      pivot: {x: 101, y: 40}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b58ae8fb82476a0800000000000000
+      internalID: -6452487562917815544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Button_on_off
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1565
+        width: 116
+        height: 95
+      alignment: 0
+      pivot: {x: 58, y: 47.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df4831e620946530800000000000000
+      internalID: 3847358478342967250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Button_on_on
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1936
+        width: 116
+        height: 95
+      alignment: 0
+      pivot: {x: 58, y: 47.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2231791b67ba2200800000000000000
+      internalID: 156138807713935915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Button_short
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1856
+        width: 235
+        height: 78
+      alignment: 0
+      pivot: {x: 117.5, y: 39}
+      border: {x: 20, y: 10, z: 20, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67159dde6c147d810800000000000000
+      internalID: 1789971699552833910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Panel_setting
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 0
+        width: 656
+        height: 853
+      alignment: 0
+      pivot: {x: 328, y: 426.5}
+      border: {x: 100, y: 100, z: 100, w: 200}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ef92619c00a4560800000000000000
+      internalID: 7298647009767587410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Sound_gauge
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 855
+        width: 399
+        height: 6
+      alignment: 0
+      pivot: {x: 199.5, y: 3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb18021a1d69c4d00800000000000000
+      internalID: 958306647818666431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Sound_handle
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1867
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 30, y: 35.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e491820fbbb6481f0800000000000000
+      internalID: -1043590758710896306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Sound_handle_blue
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1940
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 30, y: 35.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d975f245fab8480800000000000000
+      internalID: -8895823862833898188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Sound_slider
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 855
+        width: 421
+        height: 22
+      alignment: 0
+      pivot: {x: 210.5, y: 11}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcba3885adb4cb6b0800000000000000
+      internalID: -5279261262025086003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SettingIcon
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 1353
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 64, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83346f2c2740dc80800000000000000
+      internalID: -8300055858144595060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Star
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1353
+        width: 360
+        height: 341
+      alignment: 0
+      pivot: {x: 180, y: 170.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66a33eda00635c40800000000000000
+      internalID: 5499845169743373932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SyringeIcon
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1353
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 256, y: 256}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664da93dc6be78960800000000000000
+      internalID: 7604305348477506662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageStart
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1103
+        height: 1351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59112145928a529f0800000000000000
+      internalID: -493803688669605483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageStart_start
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1867
+        width: 306
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c05f5c24f10f0280800000000000000
+      internalID: -9075032575900167995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

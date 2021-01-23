@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 60c71cf23a4e24ed099d621382fcc653
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -822523913587039696
+    second: Human_normal_w_side_0
+  - first:
+      213: -2669985742051410122
+    second: Human_normal_w_side_1
+  - first:
+      213: 7246524417398542204
+    second: Human_normal_w_side_2
+  - first:
+      213: 8008250842346065805
+    second: Human_normal_w_side_3
+  - first:
+      213: 3331581560036331170
+    second: Human_normal_w_side_4
+  - first:
+      213: -649776377248419881
+    second: Human_normal_w_side_5
+  - first:
+      213: 6107251708316770083
+    second: Human_normal_w_side_6
+  - first:
+      213: 2071618723495994610
+    second: Human_normal_w_side_7
+  - first:
+      213: 3877149612108360243
+    second: Human_normal_w_side_8
+  - first:
+      213: -861294767648334854
+    second: Human_normal_w_side_9
+  - first:
+      213: -3872216112348825774
+    second: Human_normal_w_side_10
+  - first:
+      213: -1388818458605989620
+    second: Human_normal_w_side_11
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Human_normal_w_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79220c044de7744a085304ec4f281fbb
+      internalID: -822523913587039696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_normal_w_side_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 54
+        width: 4
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa9b5dfee9824b5088dff4c12f4f933
+      internalID: -2669985742051410122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_normal_w_side_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 54
+        width: 5
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8cf9744b6044b22b9866e0507a4199
+      internalID: 7246524417398542204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_normal_w_side_3
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 46
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab97ff8eac194929b761412a6d3d196
+      internalID: 8008250842346065805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_normal_w_side_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 46
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efd0dce5992544dc932691fb06ca359
+      internalID: 3331581560036331170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_normal_w_side_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16dfb714d7f742aa828595100568932
+      internalID: -649776377248419881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_normal_w_side_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 30
+        width: 14
+        height: 13
+      alignment: 9
+      pivot: {x: 0.7966445, y: 0.8131993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37ea892e4e0f4f848512f025015a4ea
+      internalID: 6107251708316770083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_normal_w_side_7
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 32
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae649a67d085f4025b3f0d70dcd4e0ca
+      internalID: 2071618723495994610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_normal_w_side_8
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 30
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: 0.12416018, y: 0.8445194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8632cdf22fdb24ecc9e7b4b43d34e80a
+      internalID: 3877149612108360243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_normal_w_side_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f136998b1e134ceb81615a6d24246c0
+      internalID: -861294767648334854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_normal_w_side_10
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2
+        width: 4
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9df9e902224446a98e25f94ef3bdc0
+      internalID: -3872216112348825774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_normal_w_side_11
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 2
+        width: 4
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef667c8c3c1f4023b1d86e407aabb38
+      internalID: -1388818458605989620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

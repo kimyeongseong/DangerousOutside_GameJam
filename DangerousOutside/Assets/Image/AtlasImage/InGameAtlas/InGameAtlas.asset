@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9c35316d78374e29844032fae0d291b, type: 3}
+  m_Name: InGameAtlas
+  m_EditorClassIdentifier: 
+  m_AtlasTexture: {fileID: 2800000, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  m_Values:
+  - {fileID: -8958624381196118121, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: 3091358291207039442, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: -136927665442528617, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: -2526419874330910450, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: -5787753045873457709, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: -2845922421768301505, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: 7830992810973938482, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: -5047430873186861987, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: 6932612680077574794, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: -3313547451993039851, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: -7717920345829705376, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: 1407612140939359391, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: 7185407090406298873, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: -2468563148906436148, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: 1568298813858856892, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: 344931550431401169, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: -1780015594464536646, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: -1317819773253360065, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: 6820941916860990830, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: -7877269899365998912, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: -3439234769598544789, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: -3739750010267457151, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: -7393302934900416836, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: -4673769242410362506, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: -8905797629011727273, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: 4339145071142477886, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: 6465036981706847970, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: 8010702638248733175, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: -5815121801377299323, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: -5859396379285784008, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: -1274517160880889162, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: 5875250314394751679, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: -3247791408539304881, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  - {fileID: 232837331631414308, guid: 07a7dd29111d342c88f3d629b2837276, type: 3}
+  m_Keys:
+  - ForcedHome_gray
+  - Img_Button_back2stage
+  - Img_Button_Item_0
+  - Img_Button_Item_1
+  - Img_Button_Item_2
+  - Img_Button_Item_3
+  - Img_Button_Item_4
+  - Img_Button_restart
+  - Img_Button_return
+  - Img_Capital
+  - Img_Car_coopang
+  - Img_Car_transport
+  - Img_Item_0
+  - Img_Item_1
+  - Img_Item_2
+  - Img_Item_3
+  - Img_Item_4
+  - Img_Laundry
+  - Img_Panel_pause
+  - Img_Pause
+  - Img_Tax
+  - Img_Tax_1
+  - Img_Tax_10
+  - Img_Tax_Character
+  - Img_Tax_S
+  - Img_TaxGauge_box_bottom
+  - Img_TaxGauge_box_cover
+  - Img_TaxGauge_box_top
+  - Img_TaxGauge_empty_bg
+  - Img_TaxGauge_empty_line
+  - Img_TaxGauge_full_bg
+  - Img_TaxGauge_full_line
+  - Img_Timebox
+  - ForcedHome_gray 1

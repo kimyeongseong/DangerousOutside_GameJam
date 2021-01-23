@@ -1,0 +1,911 @@
+fileFormatVersion: 2
+guid: 07a7dd29111d342c88f3d629b2837276
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7717920345829705376
+    second: Img_Car_coopang
+  - first:
+      213: 1407612140939359391
+    second: Img_Car_transport
+  - first:
+      213: 3091358291207039442
+    second: Img_Button_back2stage
+  - first:
+      213: -5047430873186861987
+    second: Img_Button_restart
+  - first:
+      213: 6932612680077574794
+    second: Img_Button_return
+  - first:
+      213: 6820941916860990830
+    second: Img_Panel_pause
+  - first:
+      213: -136927665442528617
+    second: Img_Button_Item_0
+  - first:
+      213: -2526419874330910450
+    second: Img_Button_Item_1
+  - first:
+      213: -5787753045873457709
+    second: Img_Button_Item_2
+  - first:
+      213: -2845922421768301505
+    second: Img_Button_Item_3
+  - first:
+      213: 7830992810973938482
+    second: Img_Button_Item_4
+  - first:
+      213: -3313547451993039851
+    second: Img_Capital
+  - first:
+      213: 7185407090406298873
+    second: Img_Item_0
+  - first:
+      213: -2468563148906436148
+    second: Img_Item_1
+  - first:
+      213: 1568298813858856892
+    second: Img_Item_2
+  - first:
+      213: 344931550431401169
+    second: Img_Item_3
+  - first:
+      213: -1780015594464536646
+    second: Img_Item_4
+  - first:
+      213: -7877269899365998912
+    second: Img_Pause
+  - first:
+      213: -3247791408539304881
+    second: Img_Timebox
+  - first:
+      213: -3439234769598544789
+    second: Img_Tax
+  - first:
+      213: -3739750010267457151
+    second: Img_Tax_1
+  - first:
+      213: -7393302934900416836
+    second: Img_Tax_10
+  - first:
+      213: -8905797629011727273
+    second: Img_Tax_S
+  - first:
+      213: 4339145071142477886
+    second: Img_TaxGauge_box_bottom
+  - first:
+      213: 8010702638248733175
+    second: Img_TaxGauge_box_top
+  - first:
+      213: -5815121801377299323
+    second: Img_TaxGauge_empty_bg
+  - first:
+      213: -5859396379285784008
+    second: Img_TaxGauge_empty_line
+  - first:
+      213: -1274517160880889162
+    second: Img_TaxGauge_full_bg
+  - first:
+      213: 5875250314394751679
+    second: Img_TaxGauge_full_line
+  - first:
+      213: -4673769242410362506
+    second: Img_Tax_Character
+  - first:
+      213: 6465036981706847970
+    second: Img_TaxGauge_box_cover
+  - first:
+      213: -1317819773253360065
+    second: Img_Laundry
+  - first:
+      213: 167310668710181507
+    second: ingame_bg 1
+  - first:
+      213: -8958624381196118121
+    second: ForcedHome_gray
+  - first:
+      213: 232837331631414308
+    second: ForcedHome_gray 1
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ForcedHome_gray 1
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 0
+        width: 452
+        height: 689
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c175ac1543b3300800000000000000
+      internalID: 232837331631414308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForcedHome_gray
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 0
+        width: 452
+        height: 689
+      alignment: 0
+      pivot: {x: 226, y: 344.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797d6a217929ca380800000000000000
+      internalID: -8958624381196118121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Button_back2stage
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 500
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 59.5, y: 59.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9aad4bcf5b6ea20800000000000000
+      internalID: 3091358291207039442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Button_Item_0
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 691
+        width: 162
+        height: 248
+      alignment: 0
+      pivot: {x: 81, y: 124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792ef558309891ef0800000000000000
+      internalID: -136927665442528617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Button_Item_1
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 691
+        width: 162
+        height: 248
+      alignment: 0
+      pivot: {x: 81, y: 124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01e405828a50fcd0800000000000000
+      internalID: -2526419874330910450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Button_Item_2
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 250
+        width: 162
+        height: 248
+      alignment: 0
+      pivot: {x: 81, y: 124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d507050545cdafa0800000000000000
+      internalID: -5787753045873457709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Button_Item_3
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 250
+        width: 162
+        height: 248
+      alignment: 0
+      pivot: {x: 81, y: 124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f345e20c2a04188d0800000000000000
+      internalID: -2845922421768301505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Button_Item_4
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 0
+        width: 162
+        height: 248
+      alignment: 0
+      pivot: {x: 81, y: 124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2334db0a8764dac60800000000000000
+      internalID: 7830992810973938482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Button_restart
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 812
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 59.5, y: 59.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c7b5ffc5ce3f9b0800000000000000
+      internalID: -5047430873186861987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Button_return
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 691
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 59.5, y: 59.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8284618086953060800000000000000
+      internalID: 6932612680077574794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Capital
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 846
+        width: 131
+        height: 121
+      alignment: 0
+      pivot: {x: 65.5, y: 60.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cdd89f52ae302d0800000000000000
+      internalID: -3313547451993039851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Car_coopang
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 470
+        width: 80
+        height: 51
+      alignment: 0
+      pivot: {x: 40, y: 25.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0697f06365074e490800000000000000
+      internalID: -7717920345829705376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Car_transport
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 778
+        width: 78
+        height: 51
+      alignment: 0
+      pivot: {x: 39, y: 25.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94b73ac8c7d88310800000000000000
+      internalID: 1407612140939359391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Item_0
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 528
+        width: 162
+        height: 248
+      alignment: 0
+      pivot: {x: 81, y: 124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f49d36cda1b7b360800000000000000
+      internalID: 7185407090406298873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Item_1
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 691
+        width: 162
+        height: 248
+      alignment: 0
+      pivot: {x: 81, y: 124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9efc325e6edbdd0800000000000000
+      internalID: -2468563148906436148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Item_2
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 691
+        width: 162
+        height: 248
+      alignment: 0
+      pivot: {x: 81, y: 124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf39b54677b3c510800000000000000
+      internalID: 1568298813858856892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Item_3
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 0
+        width: 162
+        height: 248
+      alignment: 0
+      pivot: {x: 81, y: 124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4d947ea6179c400800000000000000
+      internalID: 344931550431401169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Item_4
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 691
+        width: 162
+        height: 248
+      alignment: 0
+      pivot: {x: 81, y: 124}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7194d6f3d1c47e0800000000000000
+      internalID: -1780015594464536646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Laundry
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 528
+        width: 152
+        height: 108
+      alignment: 0
+      pivot: {x: 76, y: 54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f366f39f5e926bde0800000000000000
+      internalID: -1317819773253360065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Panel_pause
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470
+        width: 492
+        height: 529
+      alignment: 0
+      pivot: {x: 246, y: 264.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e654214d88ad8ae50800000000000000
+      internalID: 6820941916860990830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Pause
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 941
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 30, y: 30}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce996813c05ea290800000000000000
+      internalID: -7877269899365998912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Tax
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 778
+        width: 146
+        height: 66
+      alignment: 0
+      pivot: {x: 73, y: 33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6408eae2326540d0800000000000000
+      internalID: -3439234769598544789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Tax_1
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 778
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 33, y: 31.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189ae310e2db91cc0800000000000000
+      internalID: -3739750010267457151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Tax_10
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 941
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 33, y: 31.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe5860f626b56990800000000000000
+      internalID: -7393302934900416836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Tax_Character
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 846
+        width: 126
+        height: 117
+      alignment: 0
+      pivot: {x: 63, y: 58.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679dbfff2af632fb0800000000000000
+      internalID: -4673769242410362506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Tax_S
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 638
+        width: 146
+        height: 90
+      alignment: 0
+      pivot: {x: 73, y: 45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c6d39cd30486480800000000000000
+      internalID: -8905797629011727273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_TaxGauge_box_bottom
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 255
+        width: 810
+        height: 83
+      alignment: 0
+      pivot: {x: 405, y: 41.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30a552d37db73c30800000000000000
+      internalID: 4339145071142477886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_TaxGauge_box_cover
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 810
+        height: 52
+      alignment: 0
+      pivot: {x: 405, y: 26}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e67662b1ec68b950800000000000000
+      internalID: 6465036981706847970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_TaxGauge_box_top
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 810
+        height: 83
+      alignment: 0
+      pivot: {x: 405, y: 41.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9a9126b9bbb2f60800000000000000
+      internalID: 8010702638248733175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_TaxGauge_empty_bg
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 810
+        height: 83
+      alignment: 0
+      pivot: {x: 405, y: 41.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584c64f08898c4fa0800000000000000
+      internalID: -5815121801377299323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_TaxGauge_empty_line
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 618
+        height: 36
+      alignment: 0
+      pivot: {x: 309, y: 18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83af576990e3faea0800000000000000
+      internalID: -5859396379285784008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_TaxGauge_full_bg
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 810
+        height: 83
+      alignment: 0
+      pivot: {x: 405, y: 41.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b22e851561005ee0800000000000000
+      internalID: -1274517160880889162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_TaxGauge_full_line
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 394
+        width: 618
+        height: 36
+      alignment: 0
+      pivot: {x: 309, y: 18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb250045805198150800000000000000
+      internalID: 5875250314394751679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Img_Timebox
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 470
+        width: 165
+        height: 56
+      alignment: 0
+      pivot: {x: 82.5, y: 28}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cf275ebe68de2d0800000000000000
+      internalID: -3247791408539304881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9c35316d78374e29844032fae0d291b, type: 3}
+  m_Name: tempAtlas
+  m_EditorClassIdentifier: 
+  m_AtlasTexture: {fileID: 2800000, guid: 2be1845819dcf4f229f75a46cf203d26, type: 3}
+  m_Values:
+  - {fileID: 8783001233447891778, guid: 2be1845819dcf4f229f75a46cf203d26, type: 3}
+  - {fileID: -2956382079364231701, guid: 2be1845819dcf4f229f75a46cf203d26, type: 3}
+  - {fileID: 3186890131568273898, guid: 2be1845819dcf4f229f75a46cf203d26, type: 3}
+  - {fileID: 195538063029053130, guid: 2be1845819dcf4f229f75a46cf203d26, type: 3}
+  - {fileID: 9175271614404327553, guid: 2be1845819dcf4f229f75a46cf203d26, type: 3}
+  - {fileID: 6173015121095560629, guid: 2be1845819dcf4f229f75a46cf203d26, type: 3}
+  - {fileID: -6703704019443396417, guid: 2be1845819dcf4f229f75a46cf203d26, type: 3}
+  - {fileID: -229256013063241344, guid: 2be1845819dcf4f229f75a46cf203d26, type: 3}
+  - {fileID: -3885610455112514396, guid: 2be1845819dcf4f229f75a46cf203d26, type: 3}
+  - {fileID: -1317819773253360065, guid: 2be1845819dcf4f229f75a46cf203d26, type: 3}
+  m_Keys:
+  - bg_1
+  - bg_2
+  - btn_1
+  - btn_2
+  - btn_3
+  - btn_4
+  - btn_5
+  - icon_1
+  - icon_2
+  - Img_Laundry

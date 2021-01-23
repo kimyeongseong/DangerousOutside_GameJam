@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9c35316d78374e29844032fae0d291b, type: 3}
+  m_Name: CommonAtlas
+  m_EditorClassIdentifier: 
+  m_AtlasTexture: {fileID: 2800000, guid: 18c0a587c278e4c2b8b2f258e8e36c9e, type: 3}
+  m_Values:
+  - {fileID: -4523048604249562611, guid: 18c0a587c278e4c2b8b2f258e8e36c9e, type: 3}
+  - {fileID: -6503485467654634232, guid: 18c0a587c278e4c2b8b2f258e8e36c9e, type: 3}
+  - {fileID: 5082632689379920029, guid: 18c0a587c278e4c2b8b2f258e8e36c9e, type: 3}
+  - {fileID: 2366140086418424938, guid: 18c0a587c278e4c2b8b2f258e8e36c9e, type: 3}
+  - {fileID: 8431197297498678525, guid: 18c0a587c278e4c2b8b2f258e8e36c9e, type: 3}
+  - {fileID: -6452487562917815544, guid: 18c0a587c278e4c2b8b2f258e8e36c9e, type: 3}
+  - {fileID: 3847358478342967250, guid: 18c0a587c278e4c2b8b2f258e8e36c9e, type: 3}
+  - {fileID: 156138807713935915, guid: 18c0a587c278e4c2b8b2f258e8e36c9e, type: 3}
+  - {fileID: 1789971699552833910, guid: 18c0a587c278e4c2b8b2f258e8e36c9e, type: 3}
+  - {fileID: 7298647009767587410, guid: 18c0a587c278e4c2b8b2f258e8e36c9e, type: 3}
+  - {fileID: 958306647818666431, guid: 18c0a587c278e4c2b8b2f258e8e36c9e, type: 3}
+  - {fileID: -1043590758710896306, guid: 18c0a587c278e4c2b8b2f258e8e36c9e, type: 3}
+  - {fileID: -8895823862833898188, guid: 18c0a587c278e4c2b8b2f258e8e36c9e, type: 3}
+  - {fileID: -5279261262025086003, guid: 18c0a587c278e4c2b8b2f258e8e36c9e, type: 3}
+  - {fileID: -8300055858144595060, guid: 18c0a587c278e4c2b8b2f258e8e36c9e, type: 3}
+  - {fileID: -493803688669605483, guid: 18c0a587c278e4c2b8b2f258e8e36c9e, type: 3}
+  - {fileID: -9075032575900167995, guid: 18c0a587c278e4c2b8b2f258e8e36c9e, type: 3}
+  - {fileID: 5499845169743373932, guid: 18c0a587c278e4c2b8b2f258e8e36c9e, type: 3}
+  - {fileID: 7604305348477506662, guid: 18c0a587c278e4c2b8b2f258e8e36c9e, type: 3}
+  m_Keys:
+  - 10pix
+  - HumanIcon
+  - Img_Button_exit
+  - Img_Button_long
+  - Img_Button_midium
+  - Img_Button_on_box
+  - Img_Button_on_off
+  - Img_Button_on_on
+  - Img_Button_short
+  - Img_Panel_setting
+  - Img_Sound_gauge
+  - Img_Sound_handle
+  - Img_Sound_handle_blue
+  - Img_Sound_slider
+  - SettingIcon
+  - StageStart
+  - StageStart_start
+  - Star
+  - SyringeIcon

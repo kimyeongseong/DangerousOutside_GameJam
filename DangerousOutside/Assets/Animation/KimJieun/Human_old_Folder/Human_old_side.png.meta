@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: 195e42b766d4c4f6a961a35a17c8f138
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 995317228017992732
+    second: Human_old_side_0
+  - first:
+      213: 797114205827472975
+    second: Human_old_side_1
+  - first:
+      213: 5066068935650335336
+    second: Human_old_side_2
+  - first:
+      213: 5568634388020345785
+    second: Human_old_side_3
+  - first:
+      213: 2241156463779868938
+    second: Human_old_side_4
+  - first:
+      213: 8034803739973787630
+    second: Human_old_side_5
+  - first:
+      213: 39557086973299128
+    second: Human_old_side_6
+  - first:
+      213: 4699876295436942137
+    second: Human_old_side_7
+  - first:
+      213: -2329212152587680256
+    second: Human_old_side_8
+  - first:
+      213: -7809982850329097442
+    second: Human_old_side_9
+  - first:
+      213: 6657948980499297533
+    second: Human_old_side_10
+  - first:
+      213: -5755472427276570358
+    second: Human_old_side_11
+  - first:
+      213: 1477037904199108599
+    second: Human_old_side_12
+  - first:
+      213: -4895955517490726130
+    second: Human_old_side_13
+  - first:
+      213: 1889784025722592502
+    second: Human_old_side_14
+  - first:
+      213: 6683261092490617493
+    second: Human_old_side_15
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Human_old_side_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0aea1be10a5c47f6aa5174297f64014
+      internalID: 995317228017992732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_old_side_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 60
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5dffc4575691499ca21467879a67023
+      internalID: 797114205827472975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_old_side_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 74
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eabb1ca58ee943ed940bb65104397b5
+      internalID: 5066068935650335336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_old_side_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 74
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd9a6289e39d4b4b8831437b2dc9b57
+      internalID: 5568634388020345785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_old_side_4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 30
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce18463fc032496d85cfc8a0440cba8
+      internalID: 2241156463779868938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_old_side_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 50
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdb192b47ee2497f85c41c2e4354fb3
+      internalID: 8034803739973787630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_old_side_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 50
+        width: 4
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c41a762ea469499e9da1af9a4e764f8
+      internalID: 39557086973299128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_old_side_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 61
+        width: 4
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ddea501d10cf4934ad8ca690e67423a
+      internalID: 4699876295436942137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_old_side_8
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 61
+        width: 5
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9a5695f765241acad8aeaa66ac392b
+      internalID: -2329212152587680256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_old_side_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 16
+        width: 55
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2587521797b24998abda20b6e843ba2
+      internalID: -7809982850329097442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_old_side_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4e86a205e5242c6bbaee592dbdea83
+      internalID: 6657948980499297533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_old_side_11
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 25
+        width: 4
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb6b7fa19a10466fbece305734345d6
+      internalID: -5755472427276570358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_old_side_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 25
+        width: 4
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239ac6d395058425b83215e4d8a077bb
+      internalID: 1477037904199108599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_old_side_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 26
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad55c97eceebb405f8a63246d955da1e
+      internalID: -4895955517490726130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_old_side_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 6
+        width: 9
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9219277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975c1e9b28f964502b439f98478e7fb5
+      internalID: 1889784025722592502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Human_old_side_15
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 82
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace233cb0a43d4f0583a2b31c7b925cf
+      internalID: 6683261092490617493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

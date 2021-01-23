@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: b735ef7a201ed42798291ff49ac08424
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3253112295484559010
+    second: Object_Church
+  - first:
+      213: 1471187267934954834
+    second: Object_Company
+  - first:
+      213: 1138994098767827280
+    second: Object_Drugstore
+  - first:
+      213: 3015807706104198290
+    second: Object_House_l
+  - first:
+      213: 3171075960241361920
+    second: Object_House_m
+  - first:
+      213: -8523134366123060288
+    second: Object_House_s
+  - first:
+      213: -4337145981243491012
+    second: Object_School
+  - first:
+      213: 8243160297223183399
+    second: Object_Sing
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Object_Church
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 0
+        width: 108
+        height: 97
+      alignment: 0
+      pivot: {x: 54, y: 48.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae00d2a560652d20800000000000000
+      internalID: 3253112295484559010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Company
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 106
+        height: 130
+      alignment: 0
+      pivot: {x: 53, y: 65}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25527578605ba6410800000000000000
+      internalID: 1471187267934954834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Drugstore
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 109
+        height: 114
+      alignment: 0
+      pivot: {x: 54.5, y: 57}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051925229158ecf00800000000000000
+      internalID: 1138994098767827280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_House_l
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 99
+        width: 109
+        height: 86
+      alignment: 0
+      pivot: {x: 54.5, y: 43}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294f939512d4ad920800000000000000
+      internalID: 3015807706104198290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_House_m
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 132
+        width: 91
+        height: 81
+      alignment: 0
+      pivot: {x: 45.5, y: 40.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00497f5e8cce10c20800000000000000
+      internalID: 3171075960241361920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_House_s
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 130
+        width: 74
+        height: 82
+      alignment: 0
+      pivot: {x: 37, y: 41}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c39f46937eb7b980800000000000000
+      internalID: -8523134366123060288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_School
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 110
+        height: 139
+      alignment: 0
+      pivot: {x: 55, y: 69.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3df7f095bc5fc3c0800000000000000
+      internalID: -4337145981243491012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Object_Sing
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 94
+        height: 128
+      alignment: 0
+      pivot: {x: 47, y: 64}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c579ebd96956270800000000000000
+      internalID: 8243160297223183399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

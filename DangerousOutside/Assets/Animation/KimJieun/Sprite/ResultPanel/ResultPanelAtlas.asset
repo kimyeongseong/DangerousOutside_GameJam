@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9c35316d78374e29844032fae0d291b, type: 3}
+  m_Name: ResultPanelAtlas
+  m_EditorClassIdentifier: 
+  m_AtlasTexture: {fileID: 2800000, guid: 70f0690fbef91404489b6ae6133a6343, type: 3}
+  m_Values:
+  - {fileID: 2737180477750472352, guid: 70f0690fbef91404489b6ae6133a6343, type: 3}
+  - {fileID: 5597242730279284435, guid: 70f0690fbef91404489b6ae6133a6343, type: 3}
+  - {fileID: 1632672848028594538, guid: 70f0690fbef91404489b6ae6133a6343, type: 3}
+  - {fileID: 3598185441760145332, guid: 70f0690fbef91404489b6ae6133a6343, type: 3}
+  - {fileID: -7112147563781677462, guid: 70f0690fbef91404489b6ae6133a6343, type: 3}
+  - {fileID: -8598861033024319660, guid: 70f0690fbef91404489b6ae6133a6343, type: 3}
+  - {fileID: -7090498941693208989, guid: 70f0690fbef91404489b6ae6133a6343, type: 3}
+  - {fileID: -6626111589191009158, guid: 70f0690fbef91404489b6ae6133a6343, type: 3}
+  - {fileID: 4010361160856765332, guid: 70f0690fbef91404489b6ae6133a6343, type: 3}
+  - {fileID: -1625141937314940116, guid: 70f0690fbef91404489b6ae6133a6343, type: 3}
+  - {fileID: -8816981095391164586, guid: 70f0690fbef91404489b6ae6133a6343, type: 3}
+  - {fileID: 9102471904670318157, guid: 70f0690fbef91404489b6ae6133a6343, type: 3}
+  m_Keys:
+  - Clear_letter
+  - Fail_letter
+  - result_bar_long
+  - result_clear
+  - result_clear_bg
+  - result_clear_next
+  - result_clear_stage
+  - result_fail
+  - result_fail_again
+  - result_fail_bg
+  - result_fail_stage
+  - result_Img_Chance
